@@ -1,0 +1,12 @@
+# Bronze Tier Requirements
+# Minimal dependencies for foundation tier
+
+# Core
+python>=3.13
+
+# Optional for future tiers (not required for Bronze)
+# google-auth-oauthlib>=1.0.0  # For Gmail Watcher (Silver+)
+# google-auth-httplib2>=0.2.0  # For Gmail Watcher (Silver+)
+# google-api-python-client>=2.100.0  # For Gmail Watcher (Silver+)
+# playwright>=1.40.0  # For browser automation (included in Bronze via Agent Skill)
+# watchdog>=3.0.0  # For file system monitoring (optional, using pathlib instead)

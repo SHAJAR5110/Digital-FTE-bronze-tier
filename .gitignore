@@ -1,0 +1,28 @@
+.env
+  .env.local
+  .env.*.local
+  secrets/
+  credentials/
+  *.pem
+  *.key
+  *.token
+  oauth_*
+
+  # Sensitive files
+  config.local.*
+  local_config.*
+  watchers/.credentials/
+  .claude/skills/**/secrets/
+  AI_Employee_Vault/
+
+  # System
+  __pycache__/
+  *.pyc
+  *.log
+  .DS_Store
+  .vscode/
+
+  # IDE
+  .idea/
+  *.swp
+  *.swo
