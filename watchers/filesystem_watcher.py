@@ -129,8 +129,8 @@ Add any analysis or next steps below.
 def main():
     """Main entry point"""
     # Configuration - update these paths
-    VAULT_PATH = "/c/Users/HP/Desktop/H/FTEs/Bronze Tier/AI_Employee_Vault"
-    WATCH_FOLDER = "~/Downloads"
+    VAULT_PATH = str(Path(__file__).parent.parent / "AI_Employee_Vault")
+    WATCH_FOLDER = str(Path(__file__).parent.parent / "Downloads")
 
     try:
         watcher = FileSystemWatcher(VAULT_PATH, WATCH_FOLDER, check_interval=30)

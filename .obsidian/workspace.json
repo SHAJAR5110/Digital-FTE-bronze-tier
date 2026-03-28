@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e11b6b852f343269",
+        "id": "02089fa575ce792c",
         "type": "tabs",
         "children": [
           {
-            "id": "13d6e40b4b56224c",
+            "id": "99c28adbba94a26f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI_Employee_Vault/Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dashboard"
+              "title": "Backlinks"
             }
           },
           {
@@ -183,14 +182,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "13d6e40b4b56224c",
+  "active": "99c28adbba94a26f",
   "lastOpenFiles": [
-    "firebase-debug.log",
-    "Untitled.md",
+    "AI_Employee_Vault/Plans/Plan_Plan_md.md",
+    "AI_Employee_Vault/Done/FILE_Plan.md",
     "AI_Employee_Vault/Dashboard.md",
-    "README.md",
-    "QUICKSTART.md",
+    "AI_Employee_Vault/Needs_Action/FILE_Plan.md",
+    "watchers/vault_processor.py",
+    "Downloads/Plan.md",
+    "AI_Employee_Vault/Company_Handbook.md",
+    "Downloads/plan.md",
+    "AI_Employee_Vault/Done/FILE_plan.md",
+    "AI_Employee_Vault/Plans/Plan_3D_Website_Builder.md",
+    "AI_Employee_Vault/Needs_Action/FILE_plan.md",
+    "Downloads",
+    "USE.md",
+    "HOW_TO_USE.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "AI_Employee_Vault/Plans/contour.md",
+    "CLAUDE.md",
+    "Untitled 8",
+    "Untitled 7",
+    "Untitled 6",
+    "Untitled 5",
+    "Untitled 4",
+    "Untitled 3",
+    "Untitled 2",
     "Personal AI Employee Hackathon 0_ Building Autonomous FTEs in 2026.md",
-    "CLAUDE.md"
+    "README.md",
+    "QUICKSTART.md"
   ]
 }
